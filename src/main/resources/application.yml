@@ -1,0 +1,10 @@
+togglz:
+  console:
+    secured: false
+    enabled: true
+  endpoint:
+    sensitive: false
+  feature-enums: de.michlb.sample.MyFeatures
+  features:
+    HELLO_WORLD: true
+    REVERSE_GREETING: false
